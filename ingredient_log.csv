@@ -1,0 +1,13 @@
+﻿Ingredient,Type,Unit,Shelf Life,Stored In
+Paneer,Dairy,grams,5 days,Refrigerator
+Onion,Vegetable,units,10 days,Kitchen Basket
+Tomato,Vegetable,units,7 days,Refrigerator
+Garlic,Spice,cloves,30 days,Pantry
+Spices (mixed),Condiment,teaspoons,Varies,Spice Rack
+Rice,Grain,grams,6 months,Pantry
+Potato,Vegetable,units,14 days,Basket
+Wheat Flour,Grain,grams,3 months,Pantry
+Ghee,Fat,tbsp,3 months,Pantry
+Milk,Dairy,ml,5 days,Refrigerator
+Banana,Fruit,units,5 days,Basket
+Bread,Bakery,slices,7 days,Bread Box
